@@ -1,0 +1,6 @@
+{
+  "name": "Engineering Calculator",
+  "description": "A specialized calculator for solving complex engineering equations, with instant constants reference and scientific unit conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
